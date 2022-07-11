@@ -1,1 +1,1 @@
-# Intermediate-Python-Projects
+# Data Science Projects using Python
